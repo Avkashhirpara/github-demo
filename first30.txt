@@ -1,0 +1,32 @@
+    1  GIT VERSION
+    2  git version
+    3  pwd
+    4  D:
+    5  cd d:
+    6  pwd
+    7  cd d:
+    8  cd G:
+    9  cd gitspace/
+   10  pwd
+   11  git config --global user.name "Avkashhirpara"
+   12  git config --global user.email "avkash.av1987@gmail.com"
+   13  git config --global -list
+   14  git config --global --list
+   15  git clone https://github.com/Avkashhirpara/github-demo.git
+   16  ls -al
+   17  cd git
+   18  cd github-demo
+   19  ls
+   20  git status
+   21  echo "test git quick start demo " >> start.txt
+   22  ls
+   23  cat start.txt 
+   24  git status
+   25  git history
+   26  git add start.txt 
+   27  git status
+   28  git commit -m "Adding start text files"
+   29  git status
+   30  git -history
+   31  history
+   32  history >> first30.txt
