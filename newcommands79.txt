@@ -1,0 +1,80 @@
+    1  GIT VERSION
+    2  git version
+    3  pwd
+    4  D:
+    5  cd d:
+    6  pwd
+    7  cd d:
+    8  cd G:
+    9  cd gitspace/
+   10  pwd
+   11  git config --global user.name "Avkashhirpara"
+   12  git config --global user.email "avkash.av1987@gmail.com"
+   13  git config --global -list
+   14  git config --global --list
+   15  git clone https://github.com/Avkashhirpara/github-demo.git
+   16  ls -al
+   17  cd git
+   18  cd github-demo
+   19  ls
+   20  git status
+   21  echo "test git quick start demo " >> start.txt
+   22  ls
+   23  cat start.txt 
+   24  git status
+   25  git history
+   26  git add start.txt 
+   27  git status
+   28  git commit -m "Adding start text files"
+   29  git status
+   30  git -history
+   31  history
+   32  history >> first30.txt
+   33  ls
+   34  git push origin master
+   35  avkashhirpara
+   36  git status
+   37  git commit -m "fist 30 command of my git tutorial"
+   38  git status
+   39  git add first30.txt 
+   40  git status
+   41  git push origin master
+   42  git status
+   43  git commit -m "my first 30 command for git bash"
+   44  git status
+   45  git push origin master
+   46  git status
+   47  history
+   48  history >> first30.txt 
+   49  cat first30.txt 
+   50  git status
+   51  git commit -m "command update 47"
+   52  git add first30.txt 
+   53  git status
+   54  git commit -m "command added"
+   55  git push origin master
+   56  cls
+   57  clear
+   58  notepad++
+   59  history
+   60  clear
+   61  exit
+   62  notepad++
+   63  notepad++ .bash_profile
+   64  exit
+   65  npp 
+   66  exit
+   67  cat ~/.gitconfig
+   68  git config --global core.editor "notepad++.exe -multiInst -nosession"
+   69  git config --global --list
+   70  history
+   71  git congif --global -e
+   72  git config --global -e
+   73  clear
+   74  g:
+   75  cd g:
+   76  cd gitspace/
+   77  cd github-demo/
+   78  clear
+   79  history
+   80  history >> newcommands79.txt
